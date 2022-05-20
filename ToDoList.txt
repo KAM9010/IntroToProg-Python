@@ -1,0 +1,3 @@
+clean car,high
+clean tub,low
+wash blankets,medium
